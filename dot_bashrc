@@ -1,0 +1,16 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias vim='nvim'
+export N_PREFIX=$HOME/.n
+export PATH=$PATH:~/.n/bin
+export PATH=$PATH:~/.npm-global/bin:~/bin
+PS1='[\u@\h \W]\$ '
+export BEMENU_OPTS='-I 0 -i -m 0 --fn "Hack:26" --nb "#181616" --nf "#c5c9c5" --sf "#949fb5" --sb "#181616" --tb "#181616" --tf "#8992a7" --hb "#949fb5" --hf "#181616"'
+eval "$(starship init bash)"
