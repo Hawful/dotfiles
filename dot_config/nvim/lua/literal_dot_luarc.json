@@ -1,0 +1,27 @@
+{
+    "workspace.library": [
+        "/home/kfrazer/.config/nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/lazy.nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/LuaSnip",
+        "/home/kfrazer/.local/share/nvim/lazy/cmp-buffer",
+        "/home/kfrazer/.local/share/nvim/lazy/cmp-nvim-lsp",
+        "/home/kfrazer/.local/share/nvim/lazy/nvim-cmp",
+        "/home/kfrazer/.local/share/nvim/lazy/fidget.nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/nvim-lspconfig",
+        "/home/kfrazer/.local/share/nvim/lazy/nvim-web-devicons",
+        "/home/kfrazer/.local/share/nvim/lazy/telescope-ui-select.nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/telescope-fzy-native.nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/plenary.nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/telescope.nvim",
+        "/home/kfrazer/.local/share/nvim/lazy/lightline.vim",
+        "/home/kfrazer/.local/share/nvim/lazy/vim-fugitive",
+        "/home/kfrazer/.local/share/nvim/lazy/base16-vim-lightline",
+        "/usr/share/nvim/runtime",
+        "/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/usr/lib/nvim",
+        "/home/kfrazer/.local/state/nvim/lazy/readme",
+        "/home/kfrazer/.local/share/nvim/lazy/cmp-buffer/after",
+        "/home/kfrazer/.local/share/nvim/lazy/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ]
+}
